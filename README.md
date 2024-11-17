@@ -1,7 +1,6 @@
-# OopsBot
-Here’s a sample README that you can use for your Slack bot project:
 
-OopsBot - Slack Bot
+
+# OopsBot - Slack Bot
 
 A simple Slack bot to alert channels when a user deletes a message and send a screenshot of that message.
 
@@ -123,5 +122,3 @@ Feel free to fork and submit pull requests for any improvements. If you encounte
 Support
 
 If you need help or have questions, feel free to reach out via email or open an issue on the GitHub repository.
-
-This README should help others understand how to set up, configure, and deploy your Slack Bot project. Make sure to adjust the placeholders (like the GitHub repo link) to match your actual project.
